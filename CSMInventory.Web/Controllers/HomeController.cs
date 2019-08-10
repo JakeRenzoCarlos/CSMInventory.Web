@@ -5,11 +5,19 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CSMInventory.Web.Models;
+using CSMInventory.Web.Infrastructure.Data.Helpers;
 
 namespace CSMInventory.Web.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly DefaultDbContext _context;
+
+        public HomeController(DefaultDbContext context)
+        {
+            _context = context;
+        }
+
         public IActionResult Index()
         {
             return View();

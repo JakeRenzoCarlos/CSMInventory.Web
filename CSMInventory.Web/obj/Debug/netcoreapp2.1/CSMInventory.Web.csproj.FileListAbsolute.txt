@@ -36,7 +36,6 @@ C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\bin\Deb
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\bin\Debug\netcoreapp2.1\CSMInventory.Web.pdb
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\bin\Debug\netcoreapp2.1\CSMInventory.Web.Views.dll
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\bin\Debug\netcoreapp2.1\CSMInventory.Web.Views.pdb
-C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.csprojAssemblyReference.cache
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.csproj.CoreCompileInputs.cache
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.RazorAssemblyInfo.cache
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.RazorAssemblyInfo.cs
@@ -61,3 +60,4 @@ C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Deb
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.dll
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.pdb
 C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.csproj.CopyComplete
+C:\Users\VGD PC 9\Documents\Seed-GithubCSMInventory.Web\CSMInventory.Web\obj\Debug\netcoreapp2.1\CSMInventory.Web.csprojAssemblyReference.cache
