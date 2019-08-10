@@ -11808,11 +11808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VGD PC 9\\Documents\\CSMInventory.Web\\CSMInventory\\CSMInventory.Web\\CSMInventory.Web.csproj",
+      "projectUniqueName": "C:\\Users\\VGD PC 9\\Documents\\Seed-GithubCSMInventory.Web\\CSMInventory.Web\\CSMInventory.Web.csproj",
       "projectName": "CSMInventory.Web",
-      "projectPath": "C:\\Users\\VGD PC 9\\Documents\\CSMInventory.Web\\CSMInventory\\CSMInventory.Web\\CSMInventory.Web.csproj",
+      "projectPath": "C:\\Users\\VGD PC 9\\Documents\\Seed-GithubCSMInventory.Web\\CSMInventory.Web\\CSMInventory.Web.csproj",
       "packagesPath": "C:\\Users\\VGD PC 9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VGD PC 9\\Documents\\CSMInventory.Web\\CSMInventory\\CSMInventory.Web\\obj\\",
+      "outputPath": "C:\\Users\\VGD PC 9\\Documents\\Seed-GithubCSMInventory.Web\\CSMInventory.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
